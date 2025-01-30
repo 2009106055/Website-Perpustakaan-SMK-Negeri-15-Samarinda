@@ -1,0 +1,11 @@
+.text-primary {
+    color: black !important;
+}
+
+.text-success {
+    color: black !important;
+}
+
+.bg-dark {
+    background-color: rgb(2, 2, 0) !important;
+}
