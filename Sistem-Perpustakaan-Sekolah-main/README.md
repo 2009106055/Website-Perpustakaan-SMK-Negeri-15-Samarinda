@@ -1,7 +1,7 @@
 # Sistem-Perpustakaan-Sekolah
-Nama Project ini adalah : CuyPerpus
+Nama Project ini adalah : Website Perpustakaan SMK Negeri 15 SAMARINDA
 
-CuyPerpus adalah sebuah aplikasi berbasis website yang memberikan pelayanan berupa sistem peminjaman dan pengelolaan buku perpustakaan.
+Website SMK NEGERI 15 SAMARINDA adalah sebuah aplikasi berbasis website yang memberikan pelayanan berupa sistem peminjaman dan pengelolaan buku perpustakaan.
 
 website ini dibuat menggunakan framework bootstrap, javascript, php dan database mysql.
 
@@ -10,6 +10,7 @@ Fitur fitur yang terdapat didalam aplikasi ini :
 2. Akses sebagai admin mendapatkan fasilitas berupa : 
   - insert, update dan delete data buku
   - mencari buku berdasarkan judul dan kategori
+  - fitur pagination
   - mengelola data siswa yang daftar pada aplikasi
   - mengelola setiap peminjaman buku
   - mengelola setiap pengembalian buku
@@ -21,4 +22,4 @@ Fitur fitur yang terdapat didalam aplikasi ini :
   - membayar denda
 
 
-Created by Mangandaralam Sakti - Student At SMKN 1 Jakarta
+Created by Muhammad Alfarezy Cannavaro
